@@ -1,3 +1,3 @@
 # Game of Life
 
-https://life.codecomplete.ru
+https://js-life.pages.dev
